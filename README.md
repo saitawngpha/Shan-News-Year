@@ -18,7 +18,7 @@ Demo
 
 A demo app is available on Google play:
 
-<a href='https://play.google.com/store/apps/details?id=com.saitawngpha.shannewyear'></a>
+<a href='https://play.google.com/store/apps/details?id=com.saitawngpha.shannewyear'><img width='240' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
 
 License
