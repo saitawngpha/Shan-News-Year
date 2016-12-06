@@ -5,13 +5,13 @@ This is my Simple App for Welcome Shan New Year 2111.
 
 See The Screenshort
 =============
-![Sample photo](https://raw.githubusercontent.com/saitawngpha/shan-new-year/master/screenshort/1.png)
-![Sample photo](https://raw.githubusercontent.com/saitawngpha/shan-new-year/master/screenshort/2.png)
-![Sample photo](https://raw.githubusercontent.com/saitawngpha/shan-new-year/master/screenshort/3.png)
-![Sample photo](https://raw.githubusercontent.com/saitawngpha/shan-new-year/master/screenshort/4.png)
-![Sample photo](https://raw.githubusercontent.com/saitawngpha/shan-new-year/master/screenshort/5.png)
-![Sample photo](https://raw.githubusercontent.com/saitawngpha/shan-new-year/master/screenshort/6.png)
-![Sample photo](https://raw.githubusercontent.com/saitawngpha/shan-new-year/master/screenshort/7.png)
+![Sample photo](https://github.com/saitawngpha/Shan-News-Year/blob/master/screenshort/1.png)
+![Sample photo](https://github.com/saitawngpha/Shan-News-Year/blob/master/screenshort/2.png)
+![Sample photo](https://github.com/saitawngpha/Shan-News-Year/blob/master/screenshort/3.png)
+![Sample photo](https://github.com/saitawngpha/Shan-News-Year/blob/master/screenshort/4.png)
+![Sample photo](https://github.com/saitawngpha/Shan-News-Year/blob/master/screenshort/5.png)
+![Sample photo](https://github.com/saitawngpha/Shan-News-Year/blob/master/screenshort/6.png)
+![Sample photo](https://github.com/saitawngpha/Shan-News-Year/blob/master/screenshort/7.png)
 
 Demo
 ====
